@@ -1,0 +1,14 @@
+D:\practice_projects\practices\c#\DataTypes\bin\Debug\net6.0\DataTypes.exe
+D:\practice_projects\practices\c#\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+D:\practice_projects\practices\c#\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+D:\practice_projects\practices\c#\DataTypes\bin\Debug\net6.0\DataTypes.dll
+D:\practice_projects\practices\c#\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.dll
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+D:\practice_projects\practices\c#\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
