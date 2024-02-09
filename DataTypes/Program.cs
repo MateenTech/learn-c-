@@ -43,9 +43,23 @@ Console.WriteLine(58.20F); // the F is called literal suffix
 Console.Write("double: ");
 Console.WriteLine(56.568);
 Console.WriteLine("decimal: ");
-Console.WriteLine(583.0558M); // THE M is called literal suffix of decimal values
+Console.WriteLine(583.50M); // THE M is called literal suffix of decimal values
 
 
 Console.WriteLine("\t Boolean 'bool' data type (true/false): ");
 Console.WriteLine(true);
 Console.WriteLine(false);
+
+
+Console.WriteLine("\n\tImplicit Type Local Variable:");
+/*
+    In C# variable declared with 'var' declare's the variable type by it's initialized value;
+
+    In this case string value is assigned to (userName) variable, so the  variable will delcared it's
+    type to string.
+*/
+var userName = "Mateen A. Bhutto";
+Console.WriteLine(userName);
+
+// if i assigned number value to variable declared with string, it will give type error
+// userName = 525;
